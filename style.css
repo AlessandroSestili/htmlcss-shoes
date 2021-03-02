@@ -79,5 +79,11 @@ main > section > .wrapper > p {
     text-align: center;
 }
 
+.yellow-text {
+    color: yellow;
+}
 
+.green-text {
+    color: green;
+}
 
